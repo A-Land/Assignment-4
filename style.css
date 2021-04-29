@@ -1,30 +1,30 @@
 body {
-background: #ee8e3b;
-} 
+  background: #ee8e3b;
+}
 
-h1{
+h1 {
   color:aqua;
    text-align: center;
 }
 
-h2{
-  color: green;
-   text-align: center;
+h2 {
+  color : green;
+   text-align : center;
 }
 
-h3{
-  color:red;
-  text-align: center;
+h3 {
+  color :red;
+  text-align : center;
 }
-div.a{
-    font-size: 50px;
+div.a {
+    font-size : 50px;
 }
-div.b{
-  font-size: 30px;
+div.b {
+  font-size : 30px;
 }
-div.c{
-  font-size: 20px; 
+div.c {
+  font-size : 20px; 
 }
-div.Steve{
-  text-align: center;
+div.Steve {
+  text-align : center;
 }
