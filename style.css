@@ -8,23 +8,23 @@ h1 {
 }
 
 h2 {
-  color : green;
-   text-align : center;
+  color: green;
+   text-align: center;
 }
 
 h3 {
-  color :red;
-  text-align : center;
+  color:red;
+  text-align: center;
 }
 div.a {
-    font-size : 50px;
+    font-size: 50px;
 }
 div.b {
-  font-size : 30px;
+  font-size: 30px;
 }
 div.c {
-  font-size : 20px; 
+  font-size: 20px; 
 }
 div.Steve {
-  text-align : center;
+  text-align: center;
 }
